@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
+
+
+* {
+
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Jim Nightshade, cursive';
+    margin-left: 10px;
+}
+
+
+.link-saúde {
+    font-size: 40px;
+    font-weight: 32px;
+    color: darkgray;
+    margin-right: 32px;
+    cursor: pointer;
+    box-shadow: 0px 4px 10px;
+    border-radius: 6px;
+
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 10px;
+    color: gainsboro;
+}
+
+
+
+p {
+    font-size: 25px;
+    font-weight: 20px;
+    margin-bottom: 70px;
+    color: black;
+}
+
+
+.button2 {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 10px;
+    margin-top: 100px;
+
+}
+
+
+.button1 {
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-right: 600px;
+    color: red;
+
+
+}
+
+.imagem1 {
+
+    width: 750px margin-top:10px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+
+.imagem2 {
+    height: 400px;
+    width: 688px;
+    margin-top: 20px;
+    border-radius: 6px;
+
+}
+
+
+a:hover {
+
+    opacity: 0.8;
+}
+
+a:active {
+    opacity: 0.16;
+
+}
